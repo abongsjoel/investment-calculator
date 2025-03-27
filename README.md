@@ -2,7 +2,7 @@
 
 This project is an **Investment Calculator** built using **React** and **Vite**. It provides a minimal setup to get started with React development using Vite, featuring Hot Module Replacement (HMR) and ESLint integration.
 
-![screenshot](../main/screenshot.png)
+![screenshot](../main/Screenshots.png)
 
 ## Built With
 
