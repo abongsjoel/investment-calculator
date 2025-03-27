@@ -13,11 +13,11 @@ This project is an **Investment Calculator** built using **React** and **Vite**.
 
 ## Author
 
-👤 **Chi A. Joel**
+👤 **Joel Chi**
 
 - GitHub: [@abongsjoel](https://github.com/abongsjoel)
 - Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
-- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/joel-chi-b4285a97/)
+- LinkedIn: [Joel Chi](https://www.linkedin.com/in/joel-chi-b4285a97/)
 
 ## Contributing
 
